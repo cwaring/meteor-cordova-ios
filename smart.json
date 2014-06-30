@@ -1,0 +1,8 @@
+{
+  "name": "cordova-ios",
+  "description": "Core runtime files for Apache Cordova on iOS",
+  "homepage": "https://github.com/cwaring/meteor-cordova-ios",
+  "author": "Chris Waring <chris@wwaves.co> (http://wwaves.co)",
+  "version": "0.0.1",
+  "git": "https://github.com/cwaring/meteor-cordova-ios.git"
+}
